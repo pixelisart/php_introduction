@@ -9,11 +9,17 @@
   <body>
 
     <div class="container">
-          <h1>Up & Running with PHP</h1>
+            <h1>Up & Running with PHP</h1>
 
-          <div class="code-content">
-            
-          </div>
+            <div class="code-content">
+                <?php
+                    echo "World"
+                ?>
+
+                <?php
+                    echo "Hello World!"
+                ?>
+            </div>
     </div>
 
   </body>
