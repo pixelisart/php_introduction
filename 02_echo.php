@@ -11,7 +11,17 @@
             <h1>Up & Running with PHP</h1>
 
             <div class="code-content">
-                
+                <?php
+                    echo "Hello World";
+
+                    echo "<hr>";
+
+                    echo 20 + 20;
+
+                    echo "<hr>";
+
+                    echo "Hello <br /> My name is juan";
+                ?>
             </div>
         </div>
     </body>
